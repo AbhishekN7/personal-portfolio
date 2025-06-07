@@ -18,5 +18,5 @@ Always open to new opportunities, tech discussions, and networking — let’s c
   stackOverflow: 'https://stackoverflow.com/users/19186217/abhishek-narkhede',
   leetcode: "https://leetcode.com/u/Abhishek_Narkhede/",
   devUsername: "AbhishekN7",
-  resume: "https://drive.google.com/file/d/10MQFTJwHKSO2w3dWIOuYMUHP5elEKi68/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1r7c5J9xynUihesBbiHY7MJGdzjejdthd/view?usp=sharing"
 }
