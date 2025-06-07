@@ -11,7 +11,7 @@ import MouseTracker from "./components/homepage/mousetracker";
 export default async function Home() {
   return (
     <>
-      <MouseTracker />
+      {/* <MouseTracker /> */}
       <HeroSection />
       <AboutSection />
       <Experience />
