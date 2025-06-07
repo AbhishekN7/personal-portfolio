@@ -6,7 +6,7 @@ import Experience from "./components/homepage/experience";
 import HeroSection from "./components/homepage/hero-section";
 import Projects from "./components/homepage/projects";
 import Skills from "./components/homepage/skills";
-import MouseTracker from "./components/homepage/mousetracker";
+// import MouseTracker from "./components/homepage/mousetracker";
 
 export default async function Home() {
   return (
