@@ -8,7 +8,7 @@ import Projects from "./components/homepage/projects";
 import Skills from "./components/homepage/skills";
 // import MouseTracker from "./components/homepage/mousetracker";
 
-export default async function Home() {
+export default function Home() {
   return (
     <>
       {/* <MouseTracker /> */}
